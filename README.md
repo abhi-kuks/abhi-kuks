@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-kuks" alt="abhi-kuks" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
-
-- 📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
-
-- 📫 How to reach me **abhishekkukreja863@gmail.com**
+# 💫 About Me:
+-  🔭 Check out my Youtube Channel: The Coding LaaLa
+-  🌱 I’m currently learning ***Machine learning and ML System Designs***
+-  👯 I’m looking to collaborate with other content creators
+-  🥅 2022 Goals: Get a ***data science JOB*** in ***MANGA*** and become more oriented towards ***my health and FITNESS***.
+-  ⚡ Fun fact: I love to play video games, and watch **cricket**.
+-  🐶 I love dogs currently having a pug named ***NAWAB***.
+-  📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
+-  📫 How to reach me **abhishekkukreja863@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
