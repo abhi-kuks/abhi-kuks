@@ -4,19 +4,17 @@
 
 # 💫 About Me:
 -  👨🏽‍💻 I’m a Senior Software Engineer at [Newgen Software Technologies Ltd](https://newgensoft.com/).
--  💼 I’m completed my Bachelor's degree in Information Technology at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/).
--  🔭 Check out my Youtube Channel: [The Coding LaaLa](https://www.youtube.com/channel/UCbDmvsHcqVywnkEZJeYOaFg) where I teach whatever I'm learning.
+-  💼 I have completed my Bachelor's degree in Information Technology at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/).
+-  🔭 Check out my Youtube Channel: [The Coding LaaLa](https://www.youtube.com/channel/UCbDmvsHcqVywnkEZJeYOaFg) where I teach whatever I'm learning and I’m also looking to collaborate 👯 with other content creators.
 -  🌱 I’m currently learning ***Machine learning and ML System Designs***
--  👯 I’m looking to collaborate with other content creators.
 -  🥅 2022 Goals: Get a ***Data Science JOB*** in ***MANGA*** and become more oriented towards ***My Health and FITNESS***.
--  ⚡ Fun fact: I love to play ***video games***, and watch ***cricket [Fav Team :obviously India](https://www.bcci.tv/)***.
--  🎬 I also love watching movies, web series , reading books and I'm a big fan of MCU as well <img src="https://www.nicepng.com/png/detail/845-8450144_ykle-20-ironman-arc-reactor-png-for-free.png" width=20 height=20>.
--  🐶 I love dogs currently having a pug named ***NAWAB*** 
--  📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
+-  ⚡ Fun fact: I love to play ***video games ,🎬 watch movies, web series, cricket [Fav Team: India](https://www.bcci.tv/) and I'm a big fan of MCU as well <img src="https://www.nicepng.com/png/detail/845-8450144_ykle-20-ironman-arc-reactor-png-for-free.png" width=20 height=20>. Another hobby which I am trying to inculcate is reading books.***
+-  🐶 I love dogs and currently having a pug named ***NAWAB*** 
+-  📝 I regularly write articles on [MEDIUM](https://medium.com/@laala)
 -  💬 Ask me about anything, I am happy to help;
 -  📫 How to reach me **abhishekkukreja863@gmail.com** .
 
-### GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <a href = "https://github.com/abhi-kuks">
@@ -32,7 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhi-kuks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-kuks" height="30" width="40" /></a>
 <a href="https://medium.com/@laala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the coding laala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the coding laala" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbDmvsHcqVywnkEZJeYOaFg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the coding laala" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/laala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laala" height="30" width="40" /></a>
 </p>
 
