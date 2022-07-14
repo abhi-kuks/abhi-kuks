@@ -2,10 +2,6 @@
 <h3 align="center">Software Developer | Machine learning Enthusiast | Youtuber | Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-kuks&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-kuks" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-kuks" alt="abhi-kuks" /></a> </p>
-
 # 💫 About Me:
 -  👨🏽‍💻 I’m a Senior Software Engineer at [Newgen Software Technologies Ltd](https://newgensoft.com/).
 -  💼 I’m completed my Bachelor's degree in Information Technology at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/).
@@ -19,6 +15,14 @@
 -  📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
 -  💬 Ask me about anything, I am happy to help;
 -  📫 How to reach me **abhishekkukreja863@gmail.com** .
+
+### GitHub Stats
+
+<p align="center">
+  <a href = "https://github.com/abhi-kuks">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=abhi-kuks&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
