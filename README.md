@@ -15,7 +15,7 @@
 -  🥅 2022 Goals: Get a ***Data Science JOB*** in ***MANGA*** and become more oriented towards ***My Health and FITNESS***.
 -  ⚡ Fun fact: I love to play ***video games***, and watch ***cricket [Fav Team :obviously India](https://www.bcci.tv/)***.
 -  🎬 I also love watching movies, web series , reading books and I'm a big fan of MCU as well <img src="https://www.nicepng.com/png/detail/845-8450144_ykle-20-ironman-arc-reactor-png-for-free.png" width=15 height=15>.
--  🐶 I love dogs currently having a pug named ***NAWAB*** <img src  = "https://photos.app.goo.gl/qUdvG6VP225bfoCn9"width=45 height=45>.
+-  🐶 I love dogs currently having a pug named ***NAWAB*** <img src  = "https://photos.app.goo.gl/qUdvG6VP225bfoCn9" width=45 height=45>.
 -  📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
 -  💬 Ask me about anything, I am happy to help;
 -  📫 How to reach me **abhishekkukreja863@gmail.com** .
