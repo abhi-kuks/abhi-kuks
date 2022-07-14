@@ -7,14 +7,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-kuks" alt="abhi-kuks" /></a> </p>
 
 # 💫 About Me:
+-  👨🏽‍💻 I’m a Senior Software Engineer at [Newgen Software Technologies Ltd](https://newgensoft.com/);
+-  💼 I’m completed my Bachelor's degree in Information Technology at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/);
 -  🔭 Check out my Youtube Channel: [The Coding LaaLa](https://www.youtube.com/channel/UCbDmvsHcqVywnkEZJeYOaFg) where I teach whatever I'm learning.
 -  🌱 I’m currently learning ***Machine learning and ML System Designs***
 -  👯 I’m looking to collaborate with other content creators.
--  🥅 2022 Goals: Get a ***data science JOB*** in ***MANGA*** and become more oriented towards ***My Health and FITNESS***.
+-  🥅 2022 Goals: Get a ***Data Science JOB*** in ***MANGA*** and become more oriented towards ***My Health and FITNESS***.
 -  ⚡ Fun fact: I love to play ***video games***, and watch ***cricket [Fav Team :obviously India](https://www.bcci.tv/)***.
--  🐶 I love dogs currently having a pug named ***NAWAB***.
+-  🎬 I also love watching movies, web series , reading books and I'm a big fan of MCU as well <img src="https://www.nicepng.com/png/detail/845-8450144_ykle-20-ironman-arc-reactor-png-for-free.png" width=15 height=15>.
+-  🐶 I love dogs currently having a pug named ***NAWAB***<img sr  = "https://photos.app.goo.gl/qUdvG6VP225bfoCn9">.
 -  📝 I regularly write articles on [https://medium.com/@laala](https://medium.com/@laala)
--  📫 How to reach me **abhishekkukreja863@gmail.com**
+-  💬 Ask me about anything, I am happy to help;
+-  📫 How to reach me **abhishekkukreja863@gmail.com** .
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
