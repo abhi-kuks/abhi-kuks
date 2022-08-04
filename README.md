@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=27&duration=2700&color=1EF731&background=060506&width=630&lines=Hare+Krishna+%7C+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87++%E0%A4%9C%E0%A5%80;I+am+Abhishek+Kukreja;Working+as+a+Senior+Software+Engineer;Youtuber+%40+The+Coding+LaaLa;Machine+Learning+Enthusiast;Medium+%40+LaaLa+)](https://git.io/typing-svg)(https://github.com/abhi-kuks)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=36&duration=3600&color=1EF731&background=060506&width=639&height=100&lines=Hare+Krishna+%7C+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87++%E0%A4%9C%E0%A5%80;I+am+Abhishek+Kukreja;Working+as+a+Senior+Software+Engineer;Youtuber+%40+The+Coding+LaaLa;Machine+Learning+Enthusiast;Medium+%40+LaaLa+)](https://github.com/abhi-kuks)
 
 
 [![Visits](https://komarev.com/ghpvc/?username=abhi-kuks&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/abhi-kuks)
