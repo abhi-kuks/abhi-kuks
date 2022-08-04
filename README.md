@@ -1,9 +1,11 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines= Hi+👋+I'm+Abhishek+ Kukreja.;Senior+Software+Engineer.;Youtuber;Machine+Learning+Enthusiast.;Data+Analyst.+%F0%9F%98%84;Nice+to+Meet+You!!!...)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+👋+I'm+Abhishek+ Kukreja.;Senior+Software+Engineer.;Youtuber;Machine+Learning+Enthusiast.;Data+Analyst.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/abhi-kuks)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Aaryan.;I+Am+a+JavaScript+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/CodingAce123)
 
 <h1 align="center">राधे राधे  जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-[![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/abhi-kuks)
+
+[![Visits](https://komarev.com/ghpvc/?username=abhi-kuks&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/abhi-kuks)
 
 
 <h3 align="center">Software Developer | Machine learning Enthusiast | Youtuber | Data Analyst</h3>
