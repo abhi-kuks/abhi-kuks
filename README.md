@@ -1,12 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=27&duration=2700&color=1EF731&background=060506&width=630&lines=Hare+Krishna+%7C+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87+%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%87++%E0%A4%9C%E0%A5%80;I+am+Abhishek+Kukreja;Working+as+a+Senior+Software+Engineer;Youtuber+%40+The+Coding+LaaLa;Machine+Learning+Enthusiast;Medium+%40+LaaLa+)](https://git.io/typing-svg)(https://github.com/abhi-kuks)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Abhishek.;I+Am+a+Senior+Software+Engineer.;Youtuber.;Machine+learning+Enthusiast+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/CodingAce123)
-
-<h1 align="center">राधे राधे  जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 [![Visits](https://komarev.com/ghpvc/?username=abhi-kuks&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/abhi-kuks)
 
-
-<h3 align="center">Software Developer | Machine learning Enthusiast | Youtuber | Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
 # 💫 About Me:
