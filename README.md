@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kukreja</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Hi+👋+I'm+Abhishek+ Kukreja.;I+Am+a+Senior+Software+Engineer.;Youtuber;Machine+Learning+Enthusiast.;Data+Analyst.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/abhi-kuks)
+
+
+<h1 align="center">राधे राधे  जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhishek Kukreja - a.k.a. 👱🏼 The Coding LaaLa (☕💻💡❤️)®™</h1>
+
+[![Visits](https://komarev.com/ghpvc/?username=abhi-kuks&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/abhi-kuks)
+
+
 <h3 align="center">Software Developer | Machine learning Enthusiast | Youtuber | Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
@@ -43,6 +50,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-kuks&show_icons=true&locale=en" alt="abhi-kuks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-kuks&" alt="abhi-kuks" /></p>
+
+<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
+
+![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
+
+---
+## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/CodingAce123)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
