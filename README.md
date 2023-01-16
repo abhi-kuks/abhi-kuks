@@ -23,8 +23,9 @@
   <a href = "https://github.com/abhi-kuks">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=abhi-kuks&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
- </p> -->
+ </p> 
 
+ -->
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> -->
@@ -47,9 +48,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-kuks&" alt="abhi-kuks" /></p> -->
 
-<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
+<!-- <h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
 
-![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
+![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif) -->
 
 ---
 ## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
