@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
 # 💫 About Me:
--  👨🏽‍💻 I’m a Senior Software Engineer -Data  at [GlobalLogic India Ltd](https://www.globallogic.com/in/).
+-  👨🏽‍💻 I’m a Senior Software Engineer - Data  at [GlobalLogic India Ltd](https://www.globallogic.com/in/).
 -  💼 I have completed my Bachelor's degree in Information Technology at [Guru Gobind Singh Indraprastha University](http://www.ipu.ac.in/).
 -  🔭 Check out my Youtube Channel: [The Coding LaaLa](https://www.youtube.com/channel/UCbDmvsHcqVywnkEZJeYOaFg) where I teach whatever I'm learning and I’m also looking to collaborate 👯 with other content creators.
 -  🌱 I’m currently learning ***Machine learning and ML System Designs***
 -  🥅 2024 Goals:***My Health and FITNESS*** and creating the better systems for our society
 -  -  ⚡ Fun fact: I love to play ***video games ,🎬 watch movies, web series, cricket [Fav Team: India](https://www.bcci.tv/) and I'm a big fan of MCU as well <img src="https://www.nicepng.com/png/detail/845-8450144_ykle-20-ironman-arc-reactor-png-for-free.png" width=20 height=20>. Another hobby which I am trying to inculcate is reading books.***
--  🐶 I love dogs and currently having a pug named ***NAWAB*** 
+-  🐶 I love dogs.
 -  📝 I regularly write articles on [MEDIUM](https://medium.com/@laala)
 -  💬 Ask me about anything, I am happy to help;
 -  📫 How to reach me **abhishekkukreja863@gmail.com** .
